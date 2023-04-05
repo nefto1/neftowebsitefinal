@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="10px" height="15px" viewBox="0 0 10 15" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>keyboard-right-arrow-button</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop-HD" transform="translate(-1205.000000, -736.000000)" fill-rule="nonzero" fill="#FFFFFF">
+            <g id="btn" transform="translate(840.000000, 717.000000)">
+                <g id="keyboard-right-arrow-button" transform="translate(365.000000, 19.000000)">
+                    <g id="Capa_1">
+                        <g id="chevron-right">
+                            <polygon id="Shape" points="1.91315789 0 0.0342105263 1.75 6.20789474 7.5 0.0342105263 13.25 1.91315789 15 9.96578947 7.5"></polygon>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
